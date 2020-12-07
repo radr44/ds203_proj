@@ -1,3 +1,8 @@
 # DS 203: Course Project
 ## Potentially Hazardeous Asteroid Detection
-* This is the readme file.
+### Updates:
+* Frequecy plots
+* Violin plots
+* multiple regression
+* Error bars
+* new class added
