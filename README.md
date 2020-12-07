@@ -5,4 +5,4 @@
 * Violin plots
 * multiple regression
 * Error bars
-* new class added
+* new class added (Perihelion Dist.)
