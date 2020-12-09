@@ -1,5 +1,5 @@
 # DS 203: Course Project
-## Potentially Hazardeous Asteroid Detection
+## Potentially Hazardous Asteroid Identification
 ### Updates:
 * Box plots improved
 * Linear models added
