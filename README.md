@@ -41,7 +41,7 @@ _______________
 
 [https://data.world/qwofford/hazardous-asteroid-orbits](https://data.world/qwofford/hazardous-asteroid-orbits)
 
-____________________
+<!--____________________
 ### Definitions:
 1. **Near Earth Object:** A Solar System body is a NEO if its closest approach to the Earth (perihelion) is less than 1.3 astronomical units (AU). 
 2. **Potentially Hazardous Object:**  A near-Earth object with a minimum orbital intersection distance with Earth of less than 0.05 astronomical units and an absolute magnitude of 22 or brighter.
@@ -62,8 +62,8 @@ ____________________
 17. **Mean motion:** It is the angular speed required for a body to complete one orbit, assuming constant speed in a circular orbit.
 18. **Albedo:** It is a measurement of the amount of light reflected from the surface of a celestial object, such as a planet, satellite, comet or asteroid.
 19. **Mean Anomaly(ma):** The fraction of an elliptical orbit's period that has elapsed since the orbiting body passed the nearest point of the orbit to the epicenter, expressed as an angle which can be used in calculating the position of that body in the classical two-body problem.
-20. **Rotation Period (rot per):** The time that the object takes to complete a single revolution around its axis of rotation relative to the background stars
-___________________
+20. **Rotation Period (rot per):** The time that the object takes to complete a single revolution around its axis of rotation relative to the background stars-->
+___________________ 
 
 #### Models Used:
 * For the Machine Learning Part of this project, the models we have used are:
@@ -74,4 +74,27 @@ ___________________
   * Support Vector Machine
   * Neural Network
 * Different Hyperparameters were tested for each model to fine tune the model and optimise the predictions.
+_________________
+#### References:
+[https://www.researchgate.net/publication/323084095_Prediction_of_Orbital_Parameters_for_Undiscovered_Potentially_Hazardous_Asteroids_Using_Machine_Learning](https://www.researchgate.net/publication/323084095_Prediction_of_Orbital_Parameters_for_Undiscovered_Potentially_Hazardous_Asteroids_Using_Machine_Learning)
+
+[https://cneos.jpl.nasa.gov/sentry/](https://cneos.jpl.nasa.gov/sentry/)
+
+[https://ssd.jpl.nasa.gov/?phys_data](https://ssd.jpl.nasa.gov/?phys_data)
+
+[https://cneos.jpl.nasa.gov/glossary/PHA.html](https://cneos.jpl.nasa.gov/glossary/PHA.html)
+
+[https://www.lpi.usra.edu/books/AsteroidsIII/pdf/3040.pdf](https://www.lpi.usra.edu/books/AsteroidsIII/pdf/3040.pdf)
+
+[https://ssd.jpl.nasa.gov/sbdb_query.cgi](https://ssd.jpl.nasa.gov/sbdb_query.cgi)
+
+[https://cneos.jpl.nasa.gov/](https://cneos.jpl.nasa.gov/)
+
+[https://theskylive.com/near-earth-objects](https://theskylive.com/near-earth-objects)
+
+[https://sbn.psi.edu/pds/archive/asteroids.html](https://sbn.psi.edu/pds/archive/asteroids.html)
+
+[http://neo.ssa.esa.int/close-approaches](http://neo.ssa.esa.int/close-approaches)
+
+[https://arxiv.org/abs/1604.06328](https://arxiv.org/abs/1604.06328)
 _________________
