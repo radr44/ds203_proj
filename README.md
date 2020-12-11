@@ -1,10 +1,5 @@
-<center>
- 
-# DS 203: Course Project
- 
-</center>
 
+# DS 203: Course Project
 ## Potentially Hazardous Asteroid Identification
-### Updates:
-* Epiksalad
-* Plugg
+
+<img src="drawing.jpg" alt="drawing" width="200"/>
