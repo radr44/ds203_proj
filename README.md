@@ -41,7 +41,37 @@ _______________
 
 [https://data.world/qwofford/hazardous-asteroid-orbits](https://data.world/qwofford/hazardous-asteroid-orbits)
 
+____________________
+### Definitions:
+1. **Near Earth Object:** A Solar System body is a NEO if its closest approach to the Earth (perihelion) is less than 1.3 astronomical units (AU). 
+2. **Potentially Hazardous Object:**  A near-Earth object with a minimum orbital intersection distance with Earth of less than 0.05 astronomical units and an absolute magnitude of 22 or brighter.
+3. **NEO Reference ID:** A unique number assigned to every near-Earth asteroid.
+4. **Absolute Magnitude:** the visual magnitude an observer would record if the asteroid were placed 1 Astronomical Unit (au) away.
+5. **Relative velocity:** The velocity of the asteroid when observed from Earth.
+6. **Miss distance:** The distance below which the asteroid will pose a serious threat.
+7. **Orbit ID:** N A unique number assigned to every observed orbit of the near Earth objects. More than one asteroid can share the same orbit.
+8. **Minimum Orbit Intersection:**  A measure used in astronomy to assess potential close approaches and collision risks between astronomical objects.
+9. **Jupiter Tisserand Invariant:** a value calculated from several orbital elements, used to distinguish different kinds of orbits.
+10. **Eccentricity:** A dimensionless parameter that determines the amount by which its orbit around another body deviates from a perfect circle.
+11. **Inclination:** The orbital inclination measures the tilt of an object's orbit around a celestial body. It is expressed as the angle between a reference plane and the orbital plane or axis of direction of the orbiting object.
+12. **Asc Node Longitude:** The ascending Node Longitude is the angle from the origin of longitude, to the direction of the ascending node, as measured in a specified reference plane.
+13. **Orbital Period:** The time a given astronomical object takes to complete one orbit around another object.
+14. **Perihelion:** The perihelion is the point in the orbit of a planet, asteroid or comet that is nearest to the sun.
+15. **Aphelion:** The aphelion is the point in the orbit of a planet, asteroid or comet that is farthest from the sun.
+16. **Perihelion Arg:** It is the angle from the body's ascending node to its perihelion, measured in the direction of motion.
+17. **Mean motion:** It is the angular speed required for a body to complete one orbit, assuming constant speed in a circular orbit.
+18. **Albedo:** It is a measurement of the amount of light reflected from the surface of a celestial object, such as a planet, satellite, comet or asteroid.
+19. **Mean Anomaly(ma):** The fraction of an elliptical orbit's period that has elapsed since the orbiting body passed the nearest point of the orbit to the epicenter, expressed as an angle which can be used in calculating the position of that body in the classical two-body problem.
+20. **Rotation Period (rot per):** The time that the object takes to complete a single revolution around its axis of rotation relative to the background stars
+___________________
 
-
-
-
+#### Models Used:
+* For the Machine Learning Part of this project, the models we have used are:
+  * Simple Linear Regression
+  * Linear Regression with an L1 penalty (Lasso Regression)
+  * Linear Regression with an L2 penalty (Ridge Regression)
+  * Random Forest Regressor
+  * Support Vector Machine
+  * Neural Network
+* Different Hyperparameters were tested for each model to fine tune the model and optimise the predictions.
+_________________
